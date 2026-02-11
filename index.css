@@ -31,3 +31,63 @@ nav button{
     color: white;
     background-color: black;
 }
+.heroic-section{
+    padding: 0px 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    align-items: center;
+}
+
+.heroic-section span p{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 3px 20px;
+    border-radius: 50px;
+}
+.heroic-section h2{
+    font-weight: normal;
+    font-size: 35px;
+    margin: 20px 0px 0px 0px;
+}
+.heroic-section h1{
+    font-size: 55px;
+    color: rgba(0, 0, 0, 0.49);
+}
+.heroic-section p{
+    margin: 10px 0px 0px 0px;
+    width: 470px;
+    font-size: 15px;
+}
+.heroic-section img{
+    object-fit: contain;
+    width: 550px;
+}
+.info-heroic-section{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    color: rgba(0, 0, 0, 0.49);
+}
+.info-heroic-section div{
+    width: 90px;
+}
+.section1 span p{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 3px 20px;
+    border-radius: 50px;
+}
+.section1{
+    background-color: rgba(205, 199, 199, 0.49);
+    padding: 50px 100px;
+}
+.section1 h2{
+    font-weight: normal;
+    margin: 20px 0px 20px 0px;
+}
+.section1 p{
+    width: 500px;
+}
